@@ -1,13 +1,13 @@
 package main
 
 import (
+	"fmt"
 	"github.com/n3wscott/gogo/a"
 	"github.com/n3wscott/gogo/b/v2"
-	"fmt"
 )
 
 func main() {
-	a := &a.Pusher{}
-	b := &b.Puller{}
-	fmt.Printf("%s %s", )
+	aa := &a.Pusher{}
+	bb := &b.Puller{}
+	fmt.Printf("%s %s", aa, bb)
 }

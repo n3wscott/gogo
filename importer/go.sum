@@ -1,0 +1,4 @@
+github.com/n3wscott/gogo/a v1.0.0 h1:uR+IBMuw2GOB3wSR08m5V6US9DtH9F0fIApdsrUFnBc=
+github.com/n3wscott/gogo/a v1.0.0/go.mod h1:lduwGBqJj+yoDyNdhQ5ip2TefKs0WGISxMgOF0thpeM=
+github.com/n3wscott/gogo/b/v2 v2.0.0 h1:rPow2is6eI3iCDV4C4kPV7Ty33QXf3bJBeHZ2RdfHK8=
+github.com/n3wscott/gogo/b/v2 v2.0.0/go.mod h1:gGIysftEjjdzkwBIlKKutM8IiL2VrI0OXH4tFLSEHSI=
